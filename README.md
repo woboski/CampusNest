@@ -1,1 +1,5 @@
-# week2-team1-repo
+<<<<<<< HEAD
+Team name: W Mans
+========
+Team name: L Mans
+>>>>>>> feature/chibitaru
